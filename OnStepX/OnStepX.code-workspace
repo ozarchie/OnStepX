@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "231114-095140-nodemcu-32s",
+			"path": "../../PlatformIO/Projects/231114-095140-nodemcu-32s"
+		}
+	],
+	"settings": {}
+}

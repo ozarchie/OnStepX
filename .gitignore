@@ -1,3 +1,4 @@
+.pio
 .vscode/settings.json
 *.json
 __vm/*
